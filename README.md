@@ -2,7 +2,7 @@
 
 DC motor speed control using an MSP430, a 4x4 keypad, a 16x2 I2C LCD, and a motor driver. Enter a speed percentage on the keypad and press `#` to apply it.
 
-[![Motor control demo](https://img.youtube.com/vi/mdbq6Uu_s7I/hqdefault.jpg)](https://youtu.be/mdbq6Uu_s7I)
+[![Motor control demo](https://img.youtube.com/vi/mdbq6Uu_s7I/maxresdefault.jpg)](https://youtu.be/mdbq6Uu_s7I)
 
 [Watch the original circuit demo](https://youtu.be/mdbq6Uu_s7I)
 
